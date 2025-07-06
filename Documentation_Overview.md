@@ -1,6 +1,5 @@
 # Tools_Documentation
-##📄 This Documentations About the tools in Identity and Access Management (IAM). 
-The each and every tool has for specific purpose in Access Management for our Applications 
+##📄 This Documentations About the tools in Identity and Access Management (IAM).The each and every tool has for specific purpose in Access Management for our Applications 
 
 | Feature                  | CyberArk (PAM)             | Okta (IAM)                     | FreeIPA (Linux IAM)             |
 |--------------------------|----------------------------|--------------------------------|---------------------------------|
