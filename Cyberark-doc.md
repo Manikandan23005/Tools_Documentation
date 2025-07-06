@@ -1,7 +1,7 @@
-# CyberArk Conjur Documentation
+# 📃 CyberArk Conjur Documentation
 
 ## What is CyberArk Conjur?
-### CyberArk Conjur is a free and open-source secrets management solution by CyberArk, designed for DevOps and CI/CD pipelines. It secures credentials, API keys, and database passwords used by applications and containers.
+### ⚙️ CyberArk Conjur is a free and open-source secrets management solution by CyberArk, designed for DevOps and CI/CD pipelines. It secures credentials, API keys, and database passwords used by applications and containers.
 
 ## Features:
 
