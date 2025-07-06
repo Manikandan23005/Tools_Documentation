@@ -12,7 +12,7 @@
 
 ### -> API Access Management
 
-### Centralized identity and policy control
+### -> Centralized identity and policy control
 ## Purpose:
 ### 🔹 Okta is designed to:
 
@@ -22,9 +22,11 @@
 
 ### 🔹 Enable zero-trust security
 
-### Simplify identity governance in cloud-first environments
-###  Installation & Setup:
+### 🔹 Simplify identity governance in cloud-first environments
+##  Installation & Setup:
+
 ### Okta is cloud-based; you don’t install it locally. Instead, you create and manage from their portal.
+
 ## Steps:
 ### 🔹 Go to https://developer.okta.com/signup/
 
@@ -34,7 +36,8 @@
 
 ### 🔹 Create a Web App integration (OIDC).
 
-### Set up redirect URI and copy the Client ID/Secret.
+### 🔹 Set up redirect URI and copy the Client ID/Secret.
+
 ## Working:
 
 ### 🔹 User accesses your app.
