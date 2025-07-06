@@ -14,41 +14,41 @@
 
 ### Centralized identity and policy control
 ## Purpose:
-### Okta is designed to:
+### 🔹 Okta is designed to:
 
-### Secure access to apps and APIs
+### 🔹 Secure access to apps and APIs
 
-### Improve user experience with one login
+### 🔹 Improve user experience with one login
 
-### Enable zero-trust security
+### 🔹 Enable zero-trust security
 
 ### Simplify identity governance in cloud-first environments
 ###  Installation & Setup:
 ### Okta is cloud-based; you don’t install it locally. Instead, you create and manage from their portal.
 ## Steps:
-### Go to https://developer.okta.com/signup/
+### 🔹 Go to https://developer.okta.com/signup/
 
-### Create a free developer account.
+### 🔹 Create a free developer account.
 
-### Log in to the Okta Admin Console.
+### 🔹 Log in to the Okta Admin Console.
 
-### Create a Web App integration (OIDC).
+### 🔹 Create a Web App integration (OIDC).
 
 ### Set up redirect URI and copy the Client ID/Secret.
 ## Working:
 
-### User accesses your app.
+### 🔹 User accesses your app.
 
-### Redirects to Okta for login.
+### 🔹 Redirects to Okta for login.
 
-### Okta authenticates (using SSO/MFA).
+### 🔹 Okta authenticates (using SSO/MFA).
 
-### If valid, it redirects back with a token.
+### 🔹 If valid, it redirects back with a token.
 
-### Your app verifies the token and allows access.
+### 🔹 our app verifies the token and allows access.
 
 ## Conclusion:
 
-### Okta is a powerful, enterprise-ready cloud IAM platform ideal for securing modern applications, enabling SSO/MFA, and managing users centrally. It's best suited for web developers, SaaS platforms, and organizations moving to the cloud.
+### 🔹 Okta is a powerful, enterprise-ready cloud IAM platform ideal for securing modern applications, enabling SSO/MFA, and managing users centrally. It's best suited for web developers, SaaS platforms, and organizations moving to the cloud.
 
 
