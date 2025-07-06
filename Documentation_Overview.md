@@ -1,7 +1,7 @@
 # Tools_Documentation
 ##📄 This Documentations About the tool in Identity and Access Management (IAM). 
 The each and every tool has for specific purpose in Access Management for our Applications 
-```
+
 | Feature                  | CyberArk (PAM)             | Okta (IAM)                     | FreeIPA (Linux IAM)             |
 |--------------------------|----------------------------|--------------------------------|---------------------------------|
 | Focus                    | Privileged Access Security | General Identity & Access Mgmt | Linux identity & authentication |
@@ -12,4 +12,4 @@ The each and every tool has for specific purpose in Access Management for our Ap
 | On-Prem / Cloud          | Both                        | Cloud (SaaS)                   | On-Prem                         |
 | DevOps Integration       | ✅ Yes (Vault, Conjur)      | ⚠️ Some                         | ❌ No                            |
 
-```
+
