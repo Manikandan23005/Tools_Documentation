@@ -1,6 +1,6 @@
-# FreeIPA Documentation
+# 📃 FreeIPA Documentation
 ## What is FreeIPA?
-### FreeIPA is an open-source on-premise Identity, Policy, and Authentication (IPA) solution for Linux/Unix environments, combining LDAP, Kerberos, DNS, and certificate management to centralize authentication and access control.
+### ⚙️ FreeIPA is an open-source on-premise Identity, Policy, and Authentication (IPA) solution for Linux/Unix environments, combining LDAP, Kerberos, DNS, and certificate management to centralize authentication and access control.
 
 ## Features:
 
