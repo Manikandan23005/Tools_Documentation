@@ -1,6 +1,6 @@
-# Okta Documentation
+# 📃 Okta Documentation
 ## What is Okta?
-### Okta is a cloud-based Identity and Access Management (IAM) service that helps organizations securely manage user authentication, single sign-on (SSO), multi-factor authentication (MFA), and lifecycle management for employees, partners, and customers across applications and devices
+### ⚙️ Okta is a cloud-based Identity and Access Management (IAM) service that helps organizations securely manage user authentication, single sign-on (SSO), multi-factor authentication (MFA), and lifecycle management for employees, partners, and customers across applications and devices
 ## Features:
 ### -> Single Sign-On (SSO)
 
